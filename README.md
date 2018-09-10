@@ -5,3 +5,4 @@ This is a simple readme file.
 Update to readme file.
 
 This is for creating conflict
+This is stashing.
