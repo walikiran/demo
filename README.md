@@ -4,3 +4,5 @@ This is a simple readme file.
 
 Update to readme file.
 Now added to update branch.
+
+This is for creating conflict
